@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JesseKivisaari
-- 👀 I’m interested in creating web applications, front end and backend,  
-- 🌱 I’m currently learning how to use react and react native.
-- 💞️ I’m looking to collaborate on web app and mobile app projects
+- 👀 I am a fullstack developer in a Finnish company. 
+- 🌱 I’m currently trying to improve my coding skills in general. 
+- 💞️ Mobile applications are my passion :) 
 - 📫 How to reach me: jessekivi@gmail.com
 
 <!---
